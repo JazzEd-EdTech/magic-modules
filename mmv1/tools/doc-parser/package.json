@@ -13,7 +13,7 @@
   "author": "scott suarez",
   "license": "Apache License Version 2.0",
   "dependencies": {
-    "jsdom": "^16.6.0",
+    "jsdom": "^16.7.0",
     "node-fetch": "^2.6.1",
     "turndown": "^7.1.1"
   }
